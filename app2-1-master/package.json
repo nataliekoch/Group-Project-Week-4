@@ -1,0 +1,29 @@
+{
+  "name": "app-two",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "author": "Jason and Laryssa",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.3",
+    "jquery": "^2.1.4",
+    "mongoose": "^4.2.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lahusiak/app2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lahusiak/app2/issues"
+  },
+  "homepage": "https://github.com/lahusiak/app2#readme",
+  "description": ""
+}
